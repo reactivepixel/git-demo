@@ -19,4 +19,7 @@ Info about git command line, its cool.
 - `git branch -d <branch-name>` - Delete a branch
 
 ## Git Tags
-- `git tag -av <tag-name>` - Create a tag
+- `git tag -a <tag-name>` - Create a tag
+- `git tag` - List all tags
+- `git push origin <tag-name>` - Push a tag to the remote repository
+- `git push origin --tags` - Push all tags to the remote repository
