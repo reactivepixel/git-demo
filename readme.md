@@ -9,3 +9,8 @@
 - `git add -A` - Add all files to the staging area
 - `git commit -m "message"` - Commit changes to the repository
 - `git status` - Check the status of the repository
+- `git log` - Show the commit history
+
+## Git Branching
+- `git branch` - List all branches
+- `git checkout -b <branch-name>` - Create a new branch
