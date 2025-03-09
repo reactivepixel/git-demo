@@ -1,5 +1,5 @@
 # Git Notes
-Info about GIt command line, its cool
+Info about git command line, it's cool.
 
 ## Git Setup Commands
 - `git init` - Initialize a git repository locally
