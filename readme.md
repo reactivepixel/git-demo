@@ -5,3 +5,8 @@
 - `git add -A` - Add all files to the staging area
 - `git commit -m "message"` - Commit changes to the repository
 - `git status` - Check the status of the repository
+
+## Git Loop
+* Git Add
+* Git Commit
+* Git Push
