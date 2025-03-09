@@ -16,3 +16,5 @@
 - `git checkout -b <branch-name>` - Create a new branch
 - `git merge <branch-name>` - Merge a branch into the current branch
 - `git branch -d <branch-name>` - Delete a branch
+
+## Git Tags
