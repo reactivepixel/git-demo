@@ -18,3 +18,4 @@
 - `git branch -d <branch-name>` - Delete a branch
 
 ## Git Tags
+- `git tag -av <tag-name>` - Create a tag
