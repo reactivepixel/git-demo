@@ -27,3 +27,6 @@ Branches:
 - feature-branch
   - Do the major dev here
 
+## Contributors
+
+- Chris Chapman
