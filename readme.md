@@ -15,6 +15,10 @@ clear
 git branch
 git checkout -b <new-branch-name>
 git checkout <branch-name>
+git remote add <origin> <url>
+git push origin <branch-name>
+git tag -a <version> -m "first release"
+git log                 # "q" to quit
 ```
 
 ## Git Workflow
